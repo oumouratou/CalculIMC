@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">CalculIMC</string>
+
+    <string name="titre">Calcul de l\'IMC</string>
+    <string name="hint_poids">Poids en kg</string>
+    <string name="hint_taille">Taille en m</string>
+    <string name="bouton_calculer">Calculer</string>
+    <string name="bouton_effacer">Effacer</string>
+
+    <string name="resultat_imc">IMC : %1$s</string>
+
+    <string name="categorie_insuffisance">Insuffisance pondérale</string>
+    <string name="categorie_normale">Corpulence normale</string>
+    <string name="categorie_surpoids">Surpoids</string>
+    <string name="categorie_obesite_moderee">Obésité modérée</string>
+    <string name="categorie_obesite_severe">Obésité sévère</string>
+    <string name="categorie_obesite_morbide">Obésité morbide</string>
+
+    <string name="erreur_champ_vide">Veuillez remplir ce champ</string>
+    <string name="erreur_valeur_positive">La valeur doit être supérieure à 0</string>
+    <string name="erreur_valeur_invalide">Valeur invalide</string>
+    <string name="toast_erreur">Veuillez corriger votre saisie</string>
+
+    <!-- Améliorations facultatives -->
+    <string name="unite_m">m</string>
+    <string name="unite_cm">cm</string>
+    <string name="hint_taille_cm">Taille en cm</string>
+    <string name="bouton_partager">Partager le résultat</string>
+    <string name="titre_historique">Historique des calculs</string>
+    <string name="bouton_vider_historique">Effacer l\'historique</string>
+    <string name="historique_vide">Aucun calcul enregistré</string>
+    <string name="partager_titre">Partager mon IMC</string>
+    <string name="message_partage">Mon IMC est de %1$s (%2$s) - Calculé avec CalculIMC</string>
+</resources>
